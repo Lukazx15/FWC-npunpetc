@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Press+Start+2P&display=swap');
+
 /* General */
 html {
     scroll-behavior: smooth;
@@ -59,6 +61,7 @@ body {
 .hero h1 {
     font-size: 50px;
     margin-bottom: 20px;
+    font-family: 'Bungee Tint', 'Press Start 2P', sans-serif;
 }
 
 .hero p {
